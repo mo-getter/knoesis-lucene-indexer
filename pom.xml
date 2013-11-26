@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.knoesis</groupId>
-    <artifactId>LuceneIndexer</artifactId>
+    <artifactId>lucene-indexer</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>LuceneIndexer</name>
+    <name>lucene-indexer</name>
     <url>http://maven.apache.org</url>
 
     <properties>

@@ -32,9 +32,9 @@
             <version>1.2</version>
         </dependency>
         <dependency>
-            <groupId>${project.groupId}</groupId>
+            <groupId>org.knoesis</groupId>
             <artifactId>knoesis-concurrency</artifactId>
-            <version>${project.version}</version>
+            <version>1.2.0</version>
         </dependency>
     </dependencies>
     
